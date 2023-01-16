@@ -1,9 +1,9 @@
-# title
+# READMEGenerator
 
-  
+  ![github license](https://img.shields.io/badge/license-MIT-yellow.svg)
    
-  Explore the [project page](link1)
-  View it live on [github-pages](link3)
+  Explore the [project page](https://github.com/bharatrai53/README-generator)
+  View it live on [github-pages](https://github.com/bharatrai53/README-generator)
   
   ## Table of Contents
   - [Description](#description)
@@ -14,25 +14,27 @@
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Contact](#contact)
-  
+  - [License](#license)
   
   ## Description
-  desc
+  The READMEGenerator application was designed to autogenerate a README.md file upon user entered prompted questions. Use the application to create a custom README
   
   ## Installation
-  install it
+  clone the repo and run the node index.js command in your terminal
   
   ## Usage 
-  use it
+  Use this application to create a README file 
   
   ## Contributing
-  me
+  Bharat Rai
   
   ## Tests
-  test1
+  no tests
   
-  ;
+  ## License
+    For more information on this license, please visit www.opensource.org
+    
 
   ## Follow
-  **GitHub**: [https://github.com/bharat53](https://github.com/bharat53)
+  **GitHub**: [https://github.com/bharatrai53](https://github.com/bharatrai53)
 
