@@ -8,3 +8,4 @@ To use the application, run the file on the command line by typing node index.js
 
 ## Live Link
 This project will be recorded and submitted via Screencastify.
+Here is the link to the unlisted YouTube video: https://youtu.be/28fTfbcd4h0
